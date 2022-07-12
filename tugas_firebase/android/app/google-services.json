@@ -1,0 +1,97 @@
+{
+  "project_info": {
+    "project_number": "529653399818",
+    "project_id": "flutter-tugas-c12b2",
+    "storage_bucket": "flutter-tugas-c12b2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:529653399818:android:a6fe95f3365f6fb3957af3",
+        "android_client_info": {
+          "package_name": "com.FlutterTugas.tugasapi1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "529653399818-tspul6unr80cc770jbpqllf9q3q1ppfu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPR6ftFt6TFahUPv_ALXWVsImxj3DmUpQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "529653399818-tspul6unr80cc770jbpqllf9q3q1ppfu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:529653399818:android:6b68a04a4045a458957af3",
+        "android_client_info": {
+          "package_name": "com.example.firebase_auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "529653399818-tspul6unr80cc770jbpqllf9q3q1ppfu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPR6ftFt6TFahUPv_ALXWVsImxj3DmUpQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "529653399818-tspul6unr80cc770jbpqllf9q3q1ppfu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:529653399818:android:48fff5c2b86ca5df957af3",
+        "android_client_info": {
+          "package_name": "com.example.tugas_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "529653399818-tspul6unr80cc770jbpqllf9q3q1ppfu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPR6ftFt6TFahUPv_ALXWVsImxj3DmUpQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "529653399818-tspul6unr80cc770jbpqllf9q3q1ppfu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
